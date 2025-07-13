@@ -55,9 +55,6 @@ Conservation efforts today are mostly **reactive**, not proactive. Our motivatio
 - Input: Turbidity, pH, temperature, salinity, DO
 - Output: Water health status and ecosystem risk
 
-![Wildlife Predictor](./predictor_model.png)
-![Aquatic System](./aquatic_monitoring.png)
-
 ---
 
 ## 👥 Eco-Connect Community
@@ -73,9 +70,6 @@ A social-media-like feed where users:
 - 🤳 Face Matching from Profile
 - 🧠 Object Detection
 - 🔍 Reverse Image Search
-
-![EcoConnect Feed](./ecoconnect_feed.png)
-![Task Manager](./eco_taskmanager.png)
 
 ---
 
@@ -95,11 +89,11 @@ A social-media-like feed where users:
 
 | Home Page                          | EcoConnect UI                        |
 |-----------------------------------|-------------------------------------|
-| ![Home](./assets/home_ui.png)     | ![EcoConnect](./assets/ecoconnect_ui.png) |
+| ![Home](./home_ui.png)     | ![EcoConnect](./ecoconnect_ui.png) |
 
 | Task Manager                      | Wildlife Model                     |
 |----------------------------------|------------------------------------|
-| ![Task](./assets/task_ui.png)    | ![Wildlife](./assets/predictor_model.png) |
+| ![Task](./task_ui.png)    | ![Wildlife](./predictor_model.png) |
 
 ---
 
